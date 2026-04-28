@@ -64,11 +64,11 @@ Os principais arquivos do projeto incluem:
 
 ## 👩‍💻 Autores
 
-**Gustavo Schimming**
-**Ana Julia Valentim**
-**Maria Eduarda Vieira**
-**Maria Eduarda Vilela**
-**Victor Hugo**
+**Gustavo Schimming;**
+**Ana Julia Valentim;**
+**Maria Eduarda Vieira;**
+**Maria Eduarda Vilela;**
+**Victor Hugo.**
 
 
 ---
